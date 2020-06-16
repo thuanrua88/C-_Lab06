@@ -1,0 +1,6 @@
+C:\Users\Pc\Desktop\C#\C#\ss8\testInterFace\testInterFace\bin\Debug\testInterFace.exe.config
+C:\Users\Pc\Desktop\C#\C#\ss8\testInterFace\testInterFace\bin\Debug\testInterFace.exe
+C:\Users\Pc\Desktop\C#\C#\ss8\testInterFace\testInterFace\bin\Debug\testInterFace.pdb
+C:\Users\Pc\Desktop\C#\C#\ss8\testInterFace\testInterFace\obj\Debug\testInterFace.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Desktop\C#\C#\ss8\testInterFace\testInterFace\obj\Debug\testInterFace.exe
+C:\Users\Pc\Desktop\C#\C#\ss8\testInterFace\testInterFace\obj\Debug\testInterFace.pdb
